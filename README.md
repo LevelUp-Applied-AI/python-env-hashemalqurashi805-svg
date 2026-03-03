@@ -27,3 +27,8 @@ python -m pip install -r requirements-prework.txt
 2. Complete the work
 3. Push the branch and open a PR from your branch to `main`
 4. Submit the PR URL in TalentLMS
+
+## متى تستخدم كل منها
+
+* **دفتر ملاحظات Jupyter:** أستخدمه عندما أريد تجربة الأكواد بشكل تفاعلي ورؤية نتائج تحليل البيانات فوراً.
+* **سكريبت بايثون (Python Script):** أستخدمه عندما أحتاج لتشغيل الكود كبرنامج متكامل ومستقر بشكل آلي.
