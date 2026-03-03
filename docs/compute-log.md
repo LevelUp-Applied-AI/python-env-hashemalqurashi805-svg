@@ -42,10 +42,11 @@ SUMMARY
   list benchmark:   0.1533s
   string benchmark: 0.0201s
 
-Copy this output into docs/compute-log.md
-Add your total RAM at the bottom of that file.
+
+
 
 ## RAM
 
 Total RAM: 6 GB
->>>>>>> b6ba2e5 (PR 4: benchmark log + three bug fixes)
+
+
